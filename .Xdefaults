@@ -1,0 +1,5 @@
+urxvt.depth: 32
+urxvt.background: [75]#0e192e
+urxvt.cursorcolor: #ffffff
+urxvt.foreground: #ffffff
+
